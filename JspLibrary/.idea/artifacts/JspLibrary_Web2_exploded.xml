@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JspLibrary:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspLibrary_Web2_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JspLibrary/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JspLibrary" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/oro.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/antlr.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/struts-el.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-io.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/struts-core.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-chain.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-digester.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-beanutils.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-validator.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-fileupload.jar" />
+          <element id="library" level="project" name="struts-struts" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JspLibrary:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspLibrary_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JspLibrary" />
+          <element id="library" level="project" name="JspLibrary" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/antlr.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/struts.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/jakarta-oro.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/ognl-2.6.11.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/xalan-2.4.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/xwork-2.0.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/commons-digester.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/freemarker-2.3.8.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/commons-beanutils.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/commons-validator.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/commons-fileupload.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JspLibrary/WebContent/WEB-INF/lib/mysql-connector-java-3.1.12-bin.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JspLibrary/web/Web" />
+    </root>
+  </artifact>
+</component>

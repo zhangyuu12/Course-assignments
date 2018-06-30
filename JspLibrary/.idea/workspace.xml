@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JspLibrary:Web exploded" />
+      <artifact name="JspLibrary:Web2 exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abefd6d8-3a34-4d30-b706-d2d5d29db815" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/borrowBackRenew.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/borrowBackRenew_back.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/borrowBackRenew_r.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/borrow_if.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/copyright_t.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/error.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/error_b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/item_out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/item_over.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/main_booksort.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/main_booksort_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/main_booksort_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/main_readersort_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/more.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/navigation_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/navigation_bg_bottom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/reader_checkbg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/subBG.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/top_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/Images/主页3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/BookCase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/BookType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Borrow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Library.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Manager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Parameter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Publishing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/Reader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/action/ReaderType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/BookCaseForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/BookForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/BookTypeForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/BorrowForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/LibraryForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/ManagerForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/ParameterForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/PublishingForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/ReaderForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/actionForm/ReaderTypeForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/core/ChStr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/core/ConnDB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/core/SetCharacterEncodingFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/BookCaseDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/BookDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/BookTypeDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/BorrowDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/LibraryDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/ManagerDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/ParameterDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/PublishingDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/ReaderDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/dao/ReaderTypeDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Book.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/BookCase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/BookType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Borrow.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Library.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Manager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Parameter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Publishing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/Reader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/action/ReaderType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/BookCaseForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/BookForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/BookTypeForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/BorrowForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/LibraryForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/ManagerForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/ParameterForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/PublishingForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/ReaderForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/actionForm/ReaderTypeForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/core/ChStr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/core/ConnDB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/core/SetCharacterEncodingFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/BookCaseDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/BookDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/BookTypeDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/BorrowDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/LibraryDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/ManagerDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/ParameterDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/PublishingDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/ReaderDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/dao/ReaderTypeDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/antlr.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-beanutils.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-chain.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-digester.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-fileupload.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-io.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-validator.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/oro.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/struts-core.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/struts-el.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/JspLibrary_Web2_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/JspLibrary_Web_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/struts_struts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JspLibrary.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/CSS/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/JS/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/JS/menu.JS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/JS/onclock.JS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/connDB.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/com/wgh/struts/ApplicationResources.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/banner.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/book.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookBack.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookBack_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookBorrow.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookBorrowSort.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookBorrow_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookCase_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookQuery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookRenew.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookRenew_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookType.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookType_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookType_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookType_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/book_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/book_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/book_detail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/book_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookcase.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookcase_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bookcase_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/borrowQuery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/bremind.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/copyright.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/library_modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/library_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/login_false.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/logout.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/main.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/manager.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/manager_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/manager_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/manager_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/navigation.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/parameter_modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/parameter_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/pwd_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/pwd_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/reader.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/readerType.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/readerType_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/readerType_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/readerType_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/reader_Modify.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/reader_add.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/reader_detail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/reader_ok.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/connDB.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/com/wgh/struts/ApplicationResources.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/BookCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/BookType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Borrow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Library.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Parameter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Publishing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/Reader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/action/ReaderType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/BookCaseForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/BookForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/BookTypeForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/BorrowForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/LibraryForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/ManagerForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/ParameterForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/PublishingForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/ReaderForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/actionForm/ReaderTypeForm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/connDB.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/core/ChStr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/core/ConnDB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/core/SetCharacterEncodingFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/BookCaseDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/BookDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/BookTypeDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/BorrowDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/LibraryDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/ManagerDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/ParameterDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/PublishingDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/ReaderDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dao/ReaderTypeDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wgh/struts/ApplicationResources.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="129" />
+    <option name="y" value="109" />
+    <option name="width" value="1134" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JspLibrary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JspLibrary" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20307693" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.82" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JspLibrary:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <artifact name="JspLibrary:Web2 exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/boolmanage" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JspLibrary_3" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59824" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JspLibrary:Web exploded" />
+          <artifact name="JspLibrary:Web2 exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abefd6d8-3a34-4d30-b706-d2d5d29db815" name="Default" comment="" />
+      <created>1530344217096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530344217096</updated>
+      <workItem from="1530344222084" duration="2458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2458000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1045" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Struts Assistant" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JspLibrary:Web2 exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts (JspLibrary)|Struts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jsp-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|JspLibrary</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>struts-struts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20307693" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

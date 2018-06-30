@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebContent/CSS/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebContent/JS/menu.JS" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/action/Borrow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/Library.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/Manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/action/Reader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/actionForm/BookCaseForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/actionForm/ManagerForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/core/ChStr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/core/ConnDB.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/BookDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/BorrowDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/ManagerDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/ReaderDAO.java" charset="UTF-8" />
+  </component>
+</project>
